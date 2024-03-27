@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "geolocation": "^0.2.0",
+    "node-dns": "^0.1.0",
+    "os": "^0.1.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "ssh2": "^1.15.0",
+    "systeminformation": "^5.22.6"
+  }
+}
